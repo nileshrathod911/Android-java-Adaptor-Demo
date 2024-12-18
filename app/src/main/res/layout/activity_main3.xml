@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Adaptor_Demo_3.MainActivity_3"
+    android:orientation="horizontal"
+    android:background="@color/white"
+    >
+
+    <Spinner
+        android:layout_width="300dp"
+        android:layout_height="30dp"
+        android:id="@+id/spinner_id_3"
+        android:layout_marginTop="100dp"
+        android:backgroundTint="@color/black"
+        android:padding="5dp"
+        />
+
+
+</LinearLayout>
